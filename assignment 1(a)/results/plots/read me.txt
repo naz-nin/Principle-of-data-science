@@ -1,9 +1,0 @@
-From Age vs Grip strength plot, 
-
-The graph is fluctuating. Under 18 years, grip strength is low. After 18, it is high for some ages, moderate for some other ages.
-
-
-From Age vs Fraility plot,
-
-Fraility is low for ages under 18 and over 38.
-It is high between 20- 30 years of age.
