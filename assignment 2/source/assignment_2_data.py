@@ -26,9 +26,6 @@ for column in df.columns:
     else:
         df[column].fillna(df[column].median(), inplace=True)  # Impute numerical variables with median
 
-# Alternatively, you can choose to drop missing values instead of imputing
-# df.dropna(inplace=True)  # Drop rows with any missing values
-
 # Save the cleaned dataset
 cleaned_data_path = "/content/drive/MyDrive/datasheet/used car/cleaned_data.csv"
 df.to_csv(cleaned_data_path, index=False)
