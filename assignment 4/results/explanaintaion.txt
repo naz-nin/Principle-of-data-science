@@ -1,0 +1,11 @@
+From Glucose Statistics,
+
+Population Highest is larger than Sample Highest.
+Sample Mean is greater than Population Mean.
+
+
+
+The Population datasheet has the better 98th percentile BMI value than Sample.
+
+
+The Mean, Standard Deviation and Percentile for both Boothstrap and Population seems almost identical.
